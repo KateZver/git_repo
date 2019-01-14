@@ -1,3 +1,4 @@
 print("Hello world")
 print("Hello everybody")
 print("Hi")
+print("Hello my dear friend")
